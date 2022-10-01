@@ -1,5 +1,9 @@
 # lab-task2
-//Q#1 Write a java program that declare the 5 floating number and calculate it sum and //the average?
+
+**//Q#1 Write a java program that declare the 5 floating number and calculate it sum and //the average?
+
+
+**
 class Hello{
 public static void main(String [] args){
 float num1=2.03f;
@@ -16,7 +20,11 @@ System.out.println("Average of the numbers:"+average);
 }
 
 
-//Q#2 write a java code that define the radius of circle and print the circumference, diameter //and the area of circle??
+
+
+**//Q#2 write a java code that define the radius of circle and print the circumference, diameter //and the area of circle??**
+
+
 class Hello{
 public static void main(String [] args){
 double radius=2.8;
@@ -29,8 +37,13 @@ System.out.println("area of the circle is:"+area);
 System.out.println("diameter of the circle:"+diameter);
 }}
 
-//Q#3 write a java program that takes an amount as runtime argument and prints the number of bills and coins it will take to complete that amount
-For example if the user enters Rs 5843. Then the output should look like this?
+
+
+
+**//Q#3 write a java program that takes an amount as runtime argument and prints the number of bills and coins it will take to complete that amount
+For example if the user enters Rs 5843. Then the output should look like this?**
+
+
 RS 5000=1;
 Rs 1000=0;
 Rs 500=1;
